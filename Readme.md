@@ -1,6 +1,6 @@
 # Setup
 
-* add the router folder to your nativescript-vue src folder.
+* add the router folder to your nativescript-vue app folder.
 * copy the mutations into your vuex store mutations
 * add any routes to store/index.js as shown in the example
 
