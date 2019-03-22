@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 * add the router folder to your nativescript-vue src folder.
 * copy the mutations into your vuex store mutations
