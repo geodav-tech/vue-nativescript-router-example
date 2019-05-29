@@ -7,6 +7,7 @@ export default {
 		}
 	},
 	navigateTo(state, newRoute, options) {
+                Vue.set(state, 'currentRoute', {route: newRoute, options})
 		state.history.push({
 			route: newRoute,
 			options
